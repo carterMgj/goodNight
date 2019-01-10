@@ -1,3 +1,2 @@
 this is alice
-aaaaa
 alice add some thing to test git pull to make conflict
